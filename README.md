@@ -1,4 +1,2 @@
-# COMP 3111 LAB1
-## This is a simple program that have factorial and power function
-### Screenshots:
-![img](https://github.com/waydxd/Comp3111LEx/blob/master/screenshots/screenshot.png?raw=true)
+# COMP 3111 LabEx
+## Disclaimer: This repo consists of the lab exercises distributed from my instructor. I do not own it.
